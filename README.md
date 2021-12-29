@@ -1,5 +1,5 @@
 # New Year Countdown
-> New Year Countdown to throw on a big screen for the New Year's Eve with FOSSASIA ! :tada:
+> New Year Countdown to throw on a big screen for the New Year's Eve with KRYSTAL ! :tada:
 
 [![HitCount](http://hits.dwyl.io/0x48piraj/countdown-2018.svg)](http://hits.dwyl.io/0x48piraj/countdown-2018)
 
