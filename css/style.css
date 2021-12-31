@@ -11,6 +11,13 @@ html, body {
     padding: 0;
     
 }
+.wrapper {
+    position: fixed;
+    transform: translateZ(0) scale(1.2);
+    height: 100%;
+    width: 100%;
+    z-index: 100;
+}
 .message
 {
     font-family: 'Great Vibes', cursive;
