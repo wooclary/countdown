@@ -13,7 +13,7 @@ html, body {
 }
 .wrapper {
     position: fixed;
-    transform: translateZ(0) scale(1.2);
+    transform: translateZ(0) scale(2.5);
     height: 100%;
     width: 100%;
     z-index: 100;
