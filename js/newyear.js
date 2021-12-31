@@ -134,8 +134,8 @@ $(document).ready(function() {
 		callbacks: {
 			interval: function() {
 				var time = this.factory.getTime().time;
-				if(time <= 100000 && time > 0) {
-					celebrate();
+				if(time <= 10 && time > 0) {
+					pulse();
 				}
 				else if(time <= 0) {
 					celebrate();
