@@ -134,7 +134,7 @@ $(document).ready(function() {
 		callbacks: {
 			interval: function() {
 				var time = this.factory.getTime().time;
-				if(time <= 100000 && time > 0) {
+				if(time <= 100000000 && time > 0) {
 					celebrate();
 				}
 				else if(time <= 0) {

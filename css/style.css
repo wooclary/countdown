@@ -115,7 +115,7 @@ canvas {
     animation:move-clouds-back 200s linear infinite;
 }
 
-.logo {
-    -webkit-filter: invert(1);
-    filter: invert(1);
-}
+/*.logo {*/
+/*    -webkit-filter: invert(1);*/
+/*    filter: invert(1);*/
+/*}*/
